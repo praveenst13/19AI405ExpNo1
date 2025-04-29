@@ -99,7 +99,8 @@ if __name__ == "__main__":
 
 <H3>OUTPUT</H3>
 
-![image](output.png)
+![image](https://github.com/user-attachments/assets/cd4071b3-0000-49c4-9c92-251f0c511b41)
+
 
 <H3>RESULT</H3>
 
